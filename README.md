@@ -1,6 +1,6 @@
 # Motion Detector
 
-A simple computer vision project that detects motion in webcam video using frame differencing.
+A simple computer vision project that detects motion in camera video using frame differencing.
 
 ## Requirements
 - Python 3
@@ -15,3 +15,4 @@ pip install opencv-python
 - Calculates their difference.
 - If the difference is large, motion is detected.
 - Draws bounding boxes around the moving region.
+
